@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/Sachuin">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/_aadil_m__/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [SACHIN](https://t.me/Sachin_malnad_boy]  [ɢɪᴛʜᴜʙ](https://github.com/Sachuin)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/Recent_movies_house)</b>
